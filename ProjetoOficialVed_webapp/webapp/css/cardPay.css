@@ -1,0 +1,14 @@
+.cardpay{
+    display: none;
+}
+
+
+.cardpay-fix{
+    display: block;
+} 
+
+
+.btn-excluir{
+    background-color: red;
+    color: white;
+}

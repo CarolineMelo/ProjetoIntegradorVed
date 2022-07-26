@@ -1,0 +1,79 @@
+#menuprincipal {
+	width: 80%;
+	padding-left: 5%;
+}
+#content {
+	padding-top: 29px;
+    width: max-content;
+}
+
+/* Barra Lateral */
+#content .barralateral {
+	font-family: 'Montserrat', sans-serif;
+	color: #ffff;
+    float: left;
+	width: 22%;
+	padding-left: 3%;
+	padding-right: 3%;
+	text-align: center;
+	background-color: #50c5bc;
+	padding-top: 36px;
+	
+}
+
+
+.barralateral #menubar .menu ul li a {
+	color: #ffff;
+	text-decoration: none;
+}
+.barralateral #menubar .menu ul li a:hover {
+	color: rgba(107,97,97,1.00);
+	text-decoration: none;
+}
+
+/*elementos do menu */
+.menu ul li {
+	list-style-type: none;
+	font-size:medium;
+    position: relative;
+	left: -35px;
+	padding-top: 12px;
+}
+
+.notimp a:hover {
+    color:#ffff;
+    font-size:medium;
+}
+.notimp a {
+    color:#145a24;
+    text-decoration: none;
+    font-size:medium;
+    position:absolute;
+	left: 50%;
+	padding-top: 12px;
+}
+
+/* Títulos do menu da barra lateral */
+#barralateral .menu h2 {
+	font-size: 14px;
+}
+
+.menu h2{
+    color: #ffff;
+}
+/*Links do menu da barra lateral */
+#barralateral .menu ul li a {
+	font-size: 14px;
+}
+
+
+/*propriedades do menu lateral */
+#content .barralateral #menubar {
+	text-align: left;
+	color: rgba(146,146,146,1.00);
+	position: relative;
+	left: 0%;
+}
+
+
+

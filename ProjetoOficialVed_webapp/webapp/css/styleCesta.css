@@ -1,0 +1,73 @@
+h1{
+    color: #28a745;
+    font-size: clamp(1.75em, 1em + 3vw, 2.5em);
+}
+
+h2{
+    font-size: clamp(1em, 1em + 1vw, 1.25em);
+}
+h3{
+    font-size: clamp(1em, 1em + 1vw, 1.25em);
+}
+h4{
+    font-size: clamp(1em, 1em + 1vw, 1.25em);
+}
+h5{
+    font-size: clamp(1em, 1em + 1vw, 1.25em);
+}
+h6{
+    font-size: clamp(1em, 1em + 1vw, 1.05em);
+    
+}
+p{
+    font-size: clamp(1em, 1em + 1vw, 1.05em);
+}
+
+.imgfruta{
+    width:70px;
+    height: 70px;
+    text-align: center;
+}
+
+
+.bi-trash{
+    display: block;
+    content: "";
+    background-image: url(../images/btn/garbage.png);
+    background-repeat: no-repeat;
+    position: relative; 
+    width: 26px;
+    height: 28px; 
+    margin-left: -8px; 
+    margin-top: -3px;
+    margin-right: -2px;
+} 
+
+
+.btn-green{
+    /* cor da letra do botão  */
+    color: black;
+    background-color: #c4cac3;
+
+
+}
+
+.btn-green:hover{
+    background-color: #85d37e;
+}
+
+.btn-red{
+    background-color: #ffffff;
+}
+
+.btn-red:hover{
+    background-color: rgb(224, 131, 131);
+}
+
+/* #quantidade{
+    border-color:#28a745;
+} */
+
+.titulo-produto{
+    text-align: left;
+}

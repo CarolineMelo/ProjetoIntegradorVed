@@ -1,0 +1,68 @@
+.title-main{
+    color: #28A745;
+}
+
+
+.text-dresc{
+    text-align: left;
+} 
+
+.bi-trash{
+    display: block;
+    content: "";
+    background-image: url(../images/btn/garbage.png);
+    background-repeat: no-repeat;
+    position: relative; 
+    width: 26px;
+    height: 28px; 
+    margin-left: -8px; 
+    margin-top: -3px;
+    margin-right: -2px;
+} 
+
+
+
+.bi-trash:hover{
+    display: block;
+    content: "";
+    background-image: url(../images/btn/garbage-focus.png);
+    background-repeat: no-repeat;
+    position: relative; 
+    width: 26px;
+    height: 28px; 
+    margin-left: -8px; 
+    margin-top: -3px;
+    margin-right: -2px;
+} 
+
+.btn-green:hover{
+    background-color: #85d37e; 
+    
+} 
+
+
+.icons-product{
+    width: 70px;
+} 
+
+.de-product{
+    text-decoration: line-through; 
+    font-size: 18px;
+}
+
+.sugestao-respo{
+    display:none;
+}
+
+
+
+@media(max-width:768px){
+
+    .sugestao{
+        display:none;
+    }
+
+    .sugestao-respo{
+        display:block;
+    }
+}
