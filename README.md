@@ -3,6 +3,7 @@
 O projeto Integrador Ved foi desenvolvido com o objetivo de criar uma loja virtual de produtos orgânicos. A equipe de desenvolvimento utilizou diversas ferramentas e tecnologias para criar uma plataforma robusta e intuitiva.
 
 <h3>Ferramentas e Tecnologias Utilizadas</h3>
+
  - HTML
  - CSS
  - JavaScript
@@ -16,6 +17,7 @@ O projeto Integrador Ved foi desenvolvido com o objetivo de criar uma loja virtu
  - Figma
  - VS Code
  - Scrum como metodologia ágil
+ 
 
 A equipe utilizou uma combinação de linguagens de programação, frameworks e ferramentas de gerenciamento de projeto para criar uma loja virtual escalável e eficiente.
 
